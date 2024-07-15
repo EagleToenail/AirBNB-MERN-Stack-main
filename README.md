@@ -39,13 +39,6 @@ For backend
 To run this project, you will need to create .env file in api folder and  add the following environment variables to your .env file  
 
 
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at mehulparekh144@.com
-
-
 ## Tech Stack
 
 **Client:** React, Vite , TailwindCSS
